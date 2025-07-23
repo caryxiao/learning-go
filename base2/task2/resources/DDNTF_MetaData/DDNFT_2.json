@@ -1,0 +1,37 @@
+{
+  "name": "J-20 Mighty Dragon #1",
+  "description": "China's first 5th-generation stealth fighter, combining advanced avionics, supercruise, and sensor fusion to dominate modern air combat.",
+  "image": "ipfs://bafybeie7rr2ix5j2am2tfs7yuip4tsbaby3jetc6qwralrwxvvutjzd4di/J-20.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Stealth Air Superiority"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "5th-Gen"
+    },
+    {
+      "trait_type": "Max Speed",
+      "value": "Mach 2.0+",
+      "display_type": "boost_number"
+    },
+    {
+      "trait_type": "Stealth Rating",
+      "value": "Very Low Observable (VLO)",
+      "display_type": "boost_percentage"
+    },
+    {
+      "trait_type": "Signature Weapon",
+      "value": "PL-15 Long-Range Missile"
+    },
+    {
+      "trait_type": "Special Ability",
+      "value": "Supercruise (Mach 1.5+ without afterburner)"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "J-8 Finback #1",
+  "description": "A legendary twin-engine, high-altitude, high-speed interceptor developed by China. Known for its Mach 2.2 speed and air defense role during the Cold War era.",
+  "image": "ipfs://bafybeie7rr2ix5j2am2tfs7yuip4tsbaby3jetc6qwralrwxvvutjzd4di/J-8.png",
+  "attributes": [
+    {
+      "trait_type": "Role",
+      "value": "Interceptor"
+    },
+    {
+      "trait_type": "Max Speed",
+      "value": "Mach 2.2",
+      "display_type": "boost_number"
+    },
+    {
+      "trait_type": "Service Era",
+      "value": "1980s-2000s"
+    },
+    {
+      "trait_type": "Signature Weapon",
+      "value": "PL-12 Missile (J-8F)"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Historic"
+    }
+  ]
+}
